@@ -7,11 +7,12 @@ I am currently a second grade Master student in the School of Artificial Intelli
 
 I graduated from the College of automation, Chongqing University, majoring in automation which is also the so-called control science and engineering. Since I entered the University, I have been committed to learning and researching robot technology. The strong interest and passion drive me to explore and think. After a long period of hard work, I learned include mechanical design, circuit design, software design, control system design and machine learning algorithm. Among them, I am most familiar with software design and control system design. I have my own understanding of optimal control and nonlinear control, and I am trying to combine the traditional control algorithm with machine learning algorithm to develop an efficient robot system.
 
-In my opinion, in order to design an excellent robot system, we must have a deep understanding of mathematical equations and engineering skills. As a result, I am now tring to use Reinforcement Learning, Meta Learning and Differential Game to develpment robot collabration system and learning system. At present, I am writing and summarizing my work , and I intend to submit the results to some high-level SCI journals, hoping to publish my results.
+In my opinion, in order to design an excellent robot system, we must have a deep understanding of mathematical equations and engineering skills. As a result, I am now tring to use Reinforcement Learning, Meta Learning and Differential Game to develpment robot collabration system and learning system. At present, I am writing and summarizing my work , and I intend to submit the results to some high-level SCI journals, hoping to publish my research work.
 
-### Markdown
+### Undergraduate
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I entered Chongqing University in 2015. In the 
+![image](https://user-images.githubusercontent.com/62533222/161495614-8698d241-8b9e-4245-bde5-705e08a6a669.png)
 
 ```markdown
 Syntax highlighted code block
