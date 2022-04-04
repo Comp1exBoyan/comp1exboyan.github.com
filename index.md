@@ -13,6 +13,7 @@ In my opinion, in order to design an excellent robot system, we must have a deep
 I entered Chongqing University in 2015. In the first year of my unversity life, I spent a lot of time studying courses. At the end of this year, I worked with senior students to design a motorcycle damping system and applied for a patent with this system. Because of the good practical ability and excellent GPA, I got the opportunity to join the robot team of Chongqing University which is a famous student team that is active in many national robot competitions.
 
 ![image](https://user-images.githubusercontent.com/62533222/161498848-aa2547c4-6a9c-40cb-85ba-ba272de1b064.png "sd") ![image](https://user-images.githubusercontent.com/62533222/161498868-984b3de6-7cbd-4d47-9f5b-d28f5a23e36c.png) 
+
 The left figure shows the motorcycle damping system, and the right figure shows the robots of robomaster in 2017. Then in the August of 2017, I followed my team and competited with 32 top teams from all over the world and finally won a National Third Prize. The following picture is the certificate of this Prize. 
 
 ![image](https://user-images.githubusercontent.com/62533222/161517704-6288766b-ed65-4fdb-9912-819f6b90bb6a.png) ![image](https://user-images.githubusercontent.com/62533222/161517732-5126577a-082e-40ea-820c-2ee0b201ca41.png)
