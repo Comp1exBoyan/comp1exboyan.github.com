@@ -11,7 +11,10 @@ In my opinion, in order to design an excellent robot system, we must have a deep
 ### Undergraduate
 
 I entered Chongqing University in 2015. In the 
-![image](https://user-images.githubusercontent.com/62533222/161498517-29795e03-3a36-4d07-98b1-f179fb7c01a8.png) ![image](https://user-images.githubusercontent.com/62533222/161498543-13a1ae90-7da4-4850-ade4-accd7bb0fee9.png)
+
+![image](https://user-images.githubusercontent.com/62533222/161498848-aa2547c4-6a9c-40cb-85ba-ba272de1b064.png) ![image](https://user-images.githubusercontent.com/62533222/161498868-984b3de6-7cbd-4d47-9f5b-d28f5a23e36c.png)
+
+
 
 
 
