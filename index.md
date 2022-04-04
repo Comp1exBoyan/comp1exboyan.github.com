@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Tang Yifeng (Boyan)
 
-You can use the [editor on GitHub](https://github.com/Comp1exBoyan/comp1exboyan.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Who am I? 
+I am currently a second year Master student in the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS). My major is control science and engineering. The current research project is robot immitation learning and planning based on machine learning. 
+I graduated from the College of automation, Chongqing University, majoring in automation which is also the so-called control science and engineering. Since I entered the University, I have been committed to learning and researching robot technology. The strong interest and passion drive me to explore and think. After a long period of hard work, I learned include mechanical design, circuit design, software design, control system design and machine learning algorithm. Among them, I am most familiar with software design and control system design. I have my own understanding of optimal control and nonlinear control, and I am trying to combine the traditional control algorithm with machine learning algorithm to develop an efficient robot system.
+In my opinion, in order to design an excellent robot system, we must have a deep understanding of mathematical equations and engineering skills. As a result, I am now tring to use Reinforcement Learning, Meta Learning and Differential Game to develpment robot collabration system and learning system. At present, I am writing and summarizing my work , and I intend to submit the results to some high-level SCI journals, hoping to publish my results.
 
 ### Markdown
 
