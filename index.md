@@ -3,7 +3,7 @@
 Who am I? 
 
 
-I am currently a second year Master student in the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS). My major is control science and engineering. The current research project is robot immitation learning and planning based on machine learning. 
+I am currently a second grade Master student in the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS) and I will graduate in Jul, 2023. My major is control science and engineering. The current research project is robot immitation learning and planning based on machine learning. 
 
 I graduated from the College of automation, Chongqing University, majoring in automation which is also the so-called control science and engineering. Since I entered the University, I have been committed to learning and researching robot technology. The strong interest and passion drive me to explore and think. After a long period of hard work, I learned include mechanical design, circuit design, software design, control system design and machine learning algorithm. Among them, I am most familiar with software design and control system design. I have my own understanding of optimal control and nonlinear control, and I am trying to combine the traditional control algorithm with machine learning algorithm to develop an efficient robot system.
 
