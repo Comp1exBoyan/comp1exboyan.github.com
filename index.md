@@ -21,32 +21,3 @@ The left figure shows the motorcycle damping system, and the right figure shows 
 In the following year, I was elected captain and led the team to participate in the 2017-2018 season. Finally, we also won the third national prize. In this year, I was mainly responsible for the mechanism and circuit design of the robot below, and the software system of the whole team was constructed by me. The hardware platform is the PCB circuit board I designed as shown in the right figure above, and the software is STM32 program written in C programming language.
 
 ![image](https://user-images.githubusercontent.com/62533222/161518483-8d5153f5-0ab0-48b5-a92a-17541bcbbc07.png) ![image](https://user-images.githubusercontent.com/62533222/161518506-12bde359-0408-43bd-9eae-d13e57860cbc.png)
-
-
-```markdown
-Syntax highlighted code block
-
-# Tang Yifeng (Boyan)
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Comp1exBoyan/comp1exboyan.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
