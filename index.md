@@ -38,6 +38,7 @@ The paper that I am writing is based on this work. My main consideration is the 
 
 
 ![mmexport1637805218297](https://user-images.githubusercontent.com/62533222/172046167-3ff5fd5e-260c-406e-871f-77fd3a1b12ea.jpg)
-、
+
+
 I hope to continue my research in the field of robotics during my PhD. I have a passion for robots, which drives me to study, think and overcome difficulties. I hope to study works that are useful and artistic to human society. In my opinion, engineering is also a kind of art, which can also bring people the feeling of beauty.
 
