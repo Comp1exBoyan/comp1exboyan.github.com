@@ -24,12 +24,8 @@ In the following year, I was elected captain and led the team to compete with ma
 
 During the two years as a Robomaster player, I learned and practiced mechanical design, hardware design, embedeed system developing and digital image processing etc.
 
-In the next few years of my college life, I participated in a national undergraduate innovation and entrepreneurship project and won the national first prize. There !
-was also a National Undergraduate Electronic Design Competition, which won the second prize of Chongqing. The graduation project was completed in the enterprise. In !
-
-one year, the design of four PCB products was completed, and the college life was over. The following figure shows several circuit boards completed in the enterprise.
+In the next few years of my college life, I participated in a national undergraduate innovation and entrepreneurship project and won the national first prize. There !was also a National Undergraduate Electronic Design Competition, which won the second prize of Chongqing. The graduation project was completed in the enterprise. During this year, I desigend 4 IOT products and all of them were put into the market. The following figure shows several circuit boards completed in the enterprise.
 Due to my excellent performance and outstanding practical ability, I finally got the opportunity to be escorted to the University of the Chinese Academy of Sciences to study for a master's degree.
-
 
 ![PCB1](https://user-images.githubusercontent.com/62533222/172045363-f9f33be6-dfc5-4101-b77f-781f46d5cfd7.jpg)
 
