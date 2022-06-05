@@ -38,6 +38,7 @@ In the first year of my postgraduate career, I was arraned to finish courses in 
 
 
 The paper that I am writing is based on this work. My main consideration is the sparse reward problem faced by the actual robot system. The method I currently choose is to improve the reinforcement learning algorithm itself, or introduce the curiosity mechanism to accelerate the robot learning process.
+
 ![mmexport1637805218297](https://user-images.githubusercontent.com/62533222/172046167-3ff5fd5e-260c-406e-871f-77fd3a1b12ea.jpg)
 
 
