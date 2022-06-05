@@ -2,7 +2,7 @@
 
 Who am I? 
 
-I am currently a second grade Master student in the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS) and I will graduate in Jul, 2023. My major is control science and engineering. The current research project is robot immitation learning and planning based on machine learning. 
+I am currently a second grade Master student in the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS) and I will graduate in Jul, 2023. My major is control science and engineering. The current research project is robot immitation learning and robot learning from demonstration. 
 
 I graduated from the College of automation, Chongqing University, majoring in automation which is also the so-called control science and engineering. Since I entered the University, I have been committed to learning and researching robot technology. The strong interest and passion drive me to explore and think. After a long period of hard work, I learned include mechanical design, circuit design, software design, control system design and machine learning algorithm. Among them, I am most familiar with software design and control system design. I have my own understanding of optimal control and nonlinear control, and I am trying to combine the traditional control algorithm with machine learning algorithm to develop an efficient robot system.
 
@@ -24,3 +24,10 @@ In the following year, I was elected captain and led the team to compete with ma
 
 During the two years as a Robomaster player, I learned and practiced mechanical design, hardware design, embedeed system developing and digital image processing etc.
 
+In the next few years of my college life, I participated in a national undergraduate innovation and entrepreneurship project and won the national first prize. There !
+was also a National Undergraduate Electronic Design Competition, which won the second prize of Chongqing. The graduation project was completed in the enterprise. In !
+
+one year, the design of four PCB products was completed, and the college life was over. The following figure shows several circuit boards completed in the enterprise.
+Due to my excellent performance and outstanding practical ability, I finally got the opportunity to be escorted to the University of the Chinese Academy of Sciences to study for a master's degree.
+
+![IMG_20220108_162735](https://user-images.githubusercontent.com/62533222/172045182-84948bc0-d84c-4f9a-956b-85aed0bc263f.jpg)[IMG_20220108_162750](https://user-images.githubusercontent.com/62533222/172045196-e4f569cb-4066-48d8-9555-88fa5fd44853.jpg)[mmexport1637635364203](https://user-images.githubusercontent.com/62533222/172045218-91c39248-58f1-4ffb-9726-023d6c9a0bd9.jpg)![mmexport1637635171957](https://user-images.githubusercontent.com/62533222/172045225-ca9bac03-a5fd-48a7-8ea3-8cfa52985f62.jpg)
