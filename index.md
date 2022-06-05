@@ -34,13 +34,10 @@ Due to my excellent performance and outstanding practical ability, I finally got
 ![PCB1](https://user-images.githubusercontent.com/62533222/172045363-f9f33be6-dfc5-4101-b77f-781f46d5cfd7.jpg)
 
 In the first year of my postgraduate career, I was arraned to finish courses in Beijing, so I did push forward my research. After returning to Shenzhen, in the first 3 months I participated in an automatic driving task. It mainly completes the design and development of trajectory tracking control system. As a classical robor control platform, Robot Operating system (ROS) is used in this program, and the development language is c++. In the following half a year, my research interest turned to the robot manipulation and learning form demonstration. At first, the development of an assembly project is completed, and yolov5 and detectron are used to identify and segment objects. And then for a long time, I studied the robot using reinforcement learning algorithm to learn how to hit ice hockey.
-
-
-
 The paper that I am writing is based on this work. My main consideration is the sparse reward problem faced by the actual robot system. The method I currently choose is to improve the reinforcement learning algorithm itself, or introduce the curiosity mechanism to accelerate the robot learning process.
 
+
 ![mmexport1637805218297](https://user-images.githubusercontent.com/62533222/172046167-3ff5fd5e-260c-406e-871f-77fd3a1b12ea.jpg)
-
-
+、
 I hope to continue my research in the field of robotics during my PhD. I have a passion for robots, which drives me to study, think and overcome difficulties. I hope to study works that are useful and artistic to human society. In my opinion, engineering is also a kind of art, which can also bring people the feeling of beauty.
 
