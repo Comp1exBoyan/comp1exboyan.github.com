@@ -18,8 +18,9 @@ The left figure shows the motorcycle damping system, and the right figure shows 
 
 ![image](https://user-images.githubusercontent.com/62533222/161517704-6288766b-ed65-4fdb-9912-819f6b90bb6a.png) ![image](https://user-images.githubusercontent.com/62533222/161517732-5126577a-082e-40ea-820c-2ee0b201ca41.png)
 
-In the following year, I was elected captain and led the team to compete with many other team in the 2017-2018 season. Finally, we also won the third national prize. In this year, I was mainly responsible for the mechanism and circuit design of the robot below, and the software system of the whole team was constructed by me. The hardware platform is the PCB circuit board I designed as shown in the right figure above, and the software is STM32 program written in C programming language.
+In the following year, I was elected captain and led the team to compete with many other team in the 2017-2018 season.  In this season, our team which consists of 15-20 key members made 7 robots and battled with other teams and finally won the third national prize again. As a engineer, I participate in the designing and machining 3 of these robots. The left figure is a typical example of our robots. I participated in designing the mechanical structure of its chassis and the hardware circuit. The right figure shown the stm32 PCB control board designed for this robot. 
 
 ![image](https://user-images.githubusercontent.com/62533222/161518483-8d5153f5-0ab0-48b5-a92a-17541bcbbc07.png) ![image](https://user-images.githubusercontent.com/62533222/161518506-12bde359-0408-43bd-9eae-d13e57860cbc.png)
 
+During the two years as a Robomaster player, I learned and practiced mechanical design, hardware design, embedeed system developing and digital image processing etc.
 
